@@ -106,8 +106,8 @@ if (!empty($pagina)) {
 // Retornar o resultado em formato JSON
 echo json_encode($retorna);
 
-    // Um arquivo JSON (JavaScript Object Notation) é um formato leve de troca de dados que utiliza uma sintaxe 
-    // fácil de ler e escrever. Ele é frequentemente usado para representar estruturas de dados simples, como pares 
-    // chave-valor, arrays e objetos, e é comumente usado em comunicações entre servidores web e clientes, sendo 
-    // fácil de entender tanto por humanos quanto por máquinas.
+// Um arquivo JSON (JavaScript Object Notation) é um formato leve de troca de dados que utiliza uma sintaxe 
+// fácil de ler e escrever. Ele é frequentemente usado para representar estruturas de dados simples, como pares 
+// chave-valor, arrays e objetos, e é comumente usado em comunicações entre servidores web e clientes, sendo 
+// fácil de entender tanto por humanos quanto por máquinas.
                         
